@@ -1,0 +1,3 @@
+class MoutainView::Mountain
+
+end

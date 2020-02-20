@@ -1,0 +1,3 @@
+class MoutainView::CLI
+
+end
